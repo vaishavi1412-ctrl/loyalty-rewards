@@ -46,7 +46,7 @@ Run environment: Node.js v22.23.5 (Linux), run by the AI assistant while buildin
 | 27 | login for an unknown email is not instantly fast (no timing leak of registered emails) | Pass |
 | 28 | absurdly large point values are rejected | Pass |
 
-**Student's own run on Windows (Node v25.1.0):** `npm test` result: loyalty-rewards@1.0.0 test
+**Student's own run on Windows (Node v25.1.0):** `npm test` result: loyalty-rewards@28 tests, 28 passed
 > node --test
 
 (node:3448) ExperimentalWarning: SQLite is an experimental feature and might change at any time

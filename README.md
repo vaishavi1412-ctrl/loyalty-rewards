@@ -2,7 +2,7 @@
 
 A web application for a factory that sells physical products in boxes. Customers prove they bought a product by entering a unique code printed inside the box, collect points, and spend those points on rewards. The factory owner has an admin dashboard to generate codes, watch for fraud, and manage customers and rewards.
 
-**GitHub repository:** `<paste your public repository link here>`
+**GitHub repository:** `<https://github.com/vaishavi1412-ctrl/loyalty-rewards>`
 **Deployed link:** Not deployed. The app runs locally (see below).
 
 ## How the three main questions are answered
