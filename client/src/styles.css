@@ -1,0 +1,11 @@
+body { background: #f4f6fb; }
+.brand { font-weight: 700; letter-spacing: .3px; }
+.hero-card { background: linear-gradient(135deg, #4f46e5, #7c3aed); color: #fff; border: 0; border-radius: 1rem; }
+.hero-card .points { font-size: 3rem; font-weight: 700; line-height: 1; }
+.stat-card { border: 0; border-radius: .9rem; box-shadow: 0 1px 4px rgba(20, 20, 50, .08); }
+.stat-card .value { font-size: 1.9rem; font-weight: 700; }
+.card { border: 0; box-shadow: 0 1px 4px rgba(20, 20, 50, .08); border-radius: .9rem; }
+.code-input { font-family: ui-monospace, Menlo, Consolas, monospace; letter-spacing: 2px; text-transform: uppercase; }
+.code-list { font-family: ui-monospace, Menlo, Consolas, monospace; max-height: 240px; overflow: auto; }
+.auth-wrap { max-width: 440px; margin: 3rem auto; }
+.table-responsive { border-radius: .6rem; }
